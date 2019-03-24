@@ -1,12 +1,20 @@
 # helloworld-api
-steps to execute this code
-1.install python
-2.install require dependencies using pip 
-in our case install 
-pip install flask
-3.code should be cloned 
-4.go to the working directory
-5.run the command in cmd prompt
+# Steps to execute this code
+- Clone  the repository into local machine
+- Setup Python in the environment (Windows or Linux)
+- Install the required dependencies using pip 
+```sh
+$ pip install flask
+```
+- Go to the working directory (where code is cloned)
+```sh
+cd helloworld-api
+```
+- Run the command in cmd prompt 
+```sh
 python app.py
-6.gotothe browser and enter the following url
+```
+- Go to the browser and enter the following url 
+```sh
 http://127.0.0.1:5000/
+```
