@@ -1,6 +1,15 @@
 # helloworld-api
 # Steps to execute this code
 - Clone  the repository into local machine
+
+```sh
+git clone https://github.com/kiranraj-srinivasan/helloworld-api
+
+or 
+
+Download Zip
+```
+
 - Setup Python in the environment (Windows or Linux)
 - Install the required dependencies using pip 
 ```sh
